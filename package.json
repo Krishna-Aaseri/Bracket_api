@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "script": "braket.js"
   },
-  "author": "",
+  "author": "Krishna",
   "license": "ISC"
 }
